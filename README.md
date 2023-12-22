@@ -1,2 +1,2 @@
-# hora_do_dia
- Projeto desenvolvido no curso de JavaScript
+# Hora do Dia
+ Projeto desenvolvido no curso de JavaScript.
